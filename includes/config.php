@@ -1,8 +1,8 @@
 <?php
-define('DB_SERVER','localhost');
-define('DB_USER','root');
-define('DB_PASS' ,'');
-define('DB_NAME','onlinecourseregistration');
+define('DB_SERVER','sql204.epizy.com');
+define('DB_USER','epiz_27484668');
+define('DB_PASS' ,'FaMs2DeHHwJX');
+define('DB_NAME','epiz_27484668_onlinecourseregistration');
 $con = mysqli_connect(DB_SERVER,DB_USER,DB_PASS,DB_NAME);
 // Check connection
 if (mysqli_connect_errno())
