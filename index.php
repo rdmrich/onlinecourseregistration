@@ -35,7 +35,7 @@ exit();
 ?>
 
 <!DOCTYPE html>
-<html xmlns="http://www.w3.org/1999/xhtml">
+
 <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
@@ -72,26 +72,18 @@ exit();
                 </form>
                 <div class="col-md-6">
                     <div class="alert alert-info">
-                        This is an online course registration made to use for schools that may wish and gets interested for it you can contact us on the adress provided below or on our website 
+                        We promise to bring learning to life for each and every one of you! Welcome to a new school year, Students! We look forward to serving you and making sure you have an enjoyable and successful year. Make this year incredible!
                         <br />
-                         <strong> Some of its features are given below :</strong>
+                         <strong> WELCOME FOR ALL :</strong>
                         <ul>
                             <li>
-                                Responsive Design Framework Used
+                                MAY GOD BLESS YOU AS YOU TAKE THIS COURSE
                             </li>
-                            <li>
-                                Easy to use and customize
-                            </li>
-                            <li>
-                                Font awesome icons included
-                            </li>
-                            <li>
-                                Clean and light code used.
-                            </li>
+                           
                         </ul>
                        
                     </div>
-                                    </div>
+              </div>
 
             </div>
         </div>

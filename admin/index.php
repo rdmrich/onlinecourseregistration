@@ -31,7 +31,6 @@ exit();
 ?>
 
 <!DOCTYPE html>
-<html xmlns="http://www.w3.org/1999/xhtml">
 <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
@@ -68,26 +67,18 @@ exit();
                 </form>
                 <div class="col-md-6">
                     <div class="alert alert-info">
-                        This is a free system to use is not for commercial use or any related 
+                        WELCOME TO THE ADMIN SECTION 
                         <br />
-                         <strong> Some of its features are given below :</strong>
+                         <strong>  WELCOME FOR ALL :</strong>
                         <ul>
                             <li>
-                                Responsive Design Framework Used
+                                MAY GOD BLESS YOU
                             </li>
-                            <li>
-                                Easy to use and customize
-                            </li>
-                            <li>
-                                Font awesome icons included
-                            </li>
-                            <li>
-                                Clean and light code used.
-                            </li>
+                            
                         </ul>
                        
                     </div>
-                                    </div>
+               </div>
 
             </div>
         </div>
